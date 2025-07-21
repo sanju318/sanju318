@@ -31,6 +31,7 @@
 
 ![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjayprajapati&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayprajapati&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayprajapati&layout=compact&langs_count=6&theme=radical&hide=html,css&custom_title=Top%20Languages%20Used%20(Primary:%20Python))
 
 ---
 
