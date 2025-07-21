@@ -9,7 +9,7 @@
 
 - 🔐 I build secure, scalable backend systems using Django
 - 🛠️ Experienced in REST APIs, RBAC, JWT/OTP-based authentication
-- 💼 Built a full-featured [Recruitment Management System]([https://github.com/yourusername/recruitment-management-system](https://github.com/sanju318/recruitment-management-system))
+- 💼 Built a full-featured [Recruitment Management System]([https://github.com/sanju318/recruitment-management-system])
 - 📚 Continuously learning and contributing to open-source projects
 - 🎯 Strong foundation in Python, MySQL, and system architecture
 
