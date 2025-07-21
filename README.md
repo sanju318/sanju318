@@ -37,8 +37,7 @@
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/sanjay-prajapati01)
-- 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 📧 Email: sanjay@example.com
+- 📧 Email: sp9872239@gmail.com
 
 ---
 
