@@ -7,7 +7,7 @@
 🔹 Passionate about building **secure, scalable backend systems**  
 🔹 Experienced in **REST APIs, RBAC, JWT/OTP Authentication**  
 🔹 Built a full-featured [Recruitment Management System](https://github.com/sanju318/recruitment-management-system)  
-🔹 Strong foundation in **Python, MySQL, and System Architecture**  
+🔹 Strong foundation in **Python, PostgreSQL, and System Architecture**  
 🔹 Always learning & contributing to **open-source projects**  
 
 ---
