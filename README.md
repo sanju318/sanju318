@@ -40,7 +40,6 @@
 - 📌 [Recruitment Management System](https://github.com/sanju318/recruitment-management-system)  
   A **full-featured recruitment platform** with authentication, job postings, and role-based access.  
 
-*(More projects coming soon... 🚧)*
 
 ---
 
