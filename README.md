@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Sanjay Prajapati</h1>
-<h3 align="center">🚀 Python Developer | Django & DRF Specialist | Open-Source Enthusiast</h3>
+<h3 align="center">🚀 Python Developer | Django & DRF | API Development</h3>
 
 ---
 
