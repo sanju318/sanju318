@@ -26,12 +26,13 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanju318&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanju318&layout=compact&theme=radical" alt="langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanju318&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=sanju318&theme=radical&hide_border=true" height="165"/>
 </p>
+
 
 ---
 
